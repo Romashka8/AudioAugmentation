@@ -1,0 +1,1 @@
+Base audio augmentation module
